@@ -1,0 +1,12 @@
+{
+  "name": "typescript_prac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wglee0511/typescript_prac",
+  "author": "wglee0511 <ranazang@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
